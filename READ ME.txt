@@ -1,0 +1,21 @@
+Hello There ...
+
+Project Overview: Emigration of Student Analysis
+
+Libraries Used:
+
+Pandas
+NumPy
+Matplotlib.pyplot
+Description:
+
+This project involves the analysis of emigration data for students using a CSV file. The primary focus is on utilizing the functionalities provided by the Pandas, NumPy, and Matplotlib.pyplot libraries to explore and visualize the data.
+
+Implemented Programs:
+Each program in the main menu corresponds to a specific analysis or visualization task. The programs leverage the capabilities of Pandas for data manipulation, NumPy for numerical operations, and Matplotlib.pyplot for creating insightful visualizations.
+
+Features:
+
+The project incorporates a range of functions and attributes provided by Pandas for data cleaning, filtering, and transformation.
+NumPy is utilized for efficient numerical operations, enhancing the analytical capabilities of the project.
+Matplotlib.pyplot is employed to create meaningful visualizations that aid in interpreting the emigration data effectively.
